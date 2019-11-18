@@ -1,0 +1,4 @@
+it\fixx\helloworld\controller\MemberController.class
+it\fixx\helloworld\rest\JaxRsActivator.class
+it\fixx\helloworld\rest\MemberResourceRESTService.class
+it\fixx\helloworld\util\WebResources.class

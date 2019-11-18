@@ -1,0 +1,5 @@
+it\fixx\helloworld\model\Member.class
+it\fixx\helloworld\data\MemberRepository.class
+it\fixx\helloworld\service\MemberRegistration.class
+it\fixx\helloworld\data\MemberListProducer.class
+it\fixx\helloworld\util\Resources.class
