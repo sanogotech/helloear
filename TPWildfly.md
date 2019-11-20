@@ -1,15 +1,15 @@
 
 # WEB/Bibliographie: JBOSS / TOP 5
 
-https://access.redhat.com/documentation/en-us/jboss_enterprise_application_platform/
-https://access.redhat.com/documentation/fr-fr/jboss_enterprise_application_platform/
-https://access.redhat.com/documentation/fr-fr/red_hat_jboss_enterprise_application_platform/7.2/
-https://access.redhat.com/documentation/en-us/jboss_enterprise_application_platform/6.1/html
+* https://access.redhat.com/documentation/en-us/jboss_enterprise_application_platform/
+* https://access.redhat.com/documentation/fr-fr/jboss_enterprise_application_platform/
 * https://developers.redhat.com/blog
+* https://dzone.com
 
 Book:
-http://www.itbuzzpress.com/ebooks/wildfly-performance-tuning-book.html
 * http://www.mastertheboss.com/
+
+* http://www.itbuzzpress.com/ebooks/wildfly-performance-tuning-book.html
 
 
 
